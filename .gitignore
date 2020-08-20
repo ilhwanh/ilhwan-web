@@ -108,3 +108,6 @@ out
 
 # VSCode settings
 .vscode
+
+# ETC
+.idea
